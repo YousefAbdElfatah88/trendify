@@ -1,0 +1,10 @@
+section{
+    background-image: url(/wraper-min.png);
+    background-position: center center;
+    background-size: cover;
+}
+.cur:hover{
+ background-color: rgb(42, 30, 2);
+ color: #fff;
+ cursor: pointer;
+}
